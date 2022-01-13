@@ -1,0 +1,32 @@
+
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 12:06 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 12:10 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 01:30 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 01:36 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 01:37 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 01:38 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 01:39 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 01:40 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 01:41 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 01:42 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 01:43 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 08:24 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 08:34 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 08:38 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 08:50 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 08:52 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 08:59 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully at at 09:01 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 09:03 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 09:06 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 09:07 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 09:08 PM on 12/09/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 07:29 PM on 12/19/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 07:29 PM on 12/19/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 07:36 PM on 12/19/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 07:36 PM on 12/19/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 07:51 PM on 12/19/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 07:51 PM on 12/19/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 08:01 PM on 12/19/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 08:28 PM on 12/19/2021
+/Users/kaluawa/Projects/aws_backup_script/kaluaws was backed up successfully  at 08:30 PM on 12/19/2021
